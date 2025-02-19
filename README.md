@@ -6,3 +6,4 @@ https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/v4
 
 ## Net
 https://github.com/vi/websocat?tab=readme-ov-file
+https://github.com/rclone/rclone
